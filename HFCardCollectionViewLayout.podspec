@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     :tag => '0.4.2'
   }
   s.source_files = 'Source/*'
-  s.swift_versions = '4.2'
+  s.swift_version = '4.2'
 end
